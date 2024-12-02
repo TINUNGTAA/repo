@@ -41,9 +41,10 @@ input{
 
 a{
     text-decoration: none;
-    color:rgb(46, 97, 238);
+    color:#0a66c2;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 1000;
+    
 
    
 }
@@ -57,7 +58,7 @@ button{
     padding: 12px;
     border-radius: 60px;
     color: white;
-    background-color: rgb(46, 97, 238);
+    background-color: #0a66c2;
     font-size: 20px;
     border: 1px solid transparent;
     margin-top: 20px;
